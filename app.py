@@ -15,10 +15,10 @@ import os
 import requests
 import json
 import numpy
-from config import get_api_key
-from current_conditions import *
-from hourly_forecast import *
-from json_tools import *
+from src.config import get_api_key
+from src.current_conditions import *
+from src.hourly_forecast import *
+from src.json_tools import *
 from datetime import datetime
 
 #TODO check for response code 200 and write tests
