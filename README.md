@@ -26,4 +26,4 @@ Testing
 The program includes a TODO to check for response code 200 and write tests.
 
 ### License
-This program is licensed under the MIT License.
+This program is licensed under the Apache License.
