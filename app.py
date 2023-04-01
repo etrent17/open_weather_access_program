@@ -10,6 +10,7 @@ If you are with BYU-Idaho, please contact the author for API access.
 User inputs city and python returns meteorological info about requested city
 
 (C) Copyright Elijah Trent 2023
+Apache License
 """
 import os
 import requests
